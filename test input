@@ -1,0 +1,23 @@
+void main()
+
+integer c ;
+
+string func (integer x);
+
+string str,str1;
+
+
+begin
+{
+x=5
+if (x<6)
+x=6
+else
+x=5
+for(w=0;w<2;w++){
+y=5+w
+x=4+w
+}
+	
+}
+end
